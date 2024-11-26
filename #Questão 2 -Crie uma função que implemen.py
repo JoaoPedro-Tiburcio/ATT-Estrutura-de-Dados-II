@@ -96,7 +96,7 @@ test_search_algorithms()
 
 #Resulatdo da execução
 #Teste com lista de intervalos uniformes:
-#Interpolation Search: #
+#Interpolation Search: 
 #Interpolation Search falhou após 1 iterações
 #Binary Search:
 #Binary Search falhou após 3 iterações
